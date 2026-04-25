@@ -1,4 +1,4 @@
 Flask
-scikit-learn
 werkzeug
 gunicorn
+sentence-transformers
